@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Alice",
+        "email": "alice@example.com",
+        "age": 30,
+        "gender": "Femme",
+        "description": "Passionnée de musique et de voyage.",
+        "photo": "https://via.placeholder.com/100",
+        "phone": "0123456789"
+    },
+    {
+        "id": 2,
+        "name": "Bob",
+        "email": "bob@example.com",
+        "age": 28,
+        "gender": "Homme",
+        "description": "Aficionado de la technologie et des jeux vidéo.",
+        "photo": "https://via.placeholder.com/100",
+        "phone": "0987654321"
+    },
+    {
+        "id": 3,
+        "name": "Charlie",
+        "email": "charlie@example.com",
+        "age": 25,
+        "gender": "Homme",
+        "description": "Amateur de cuisine et de sport.",
+        "photo": "https://via.placeholder.com/100",
+        "phone": "0147258369"
+    }
+]
